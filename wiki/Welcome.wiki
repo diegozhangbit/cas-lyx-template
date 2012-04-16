@@ -5,11 +5,11 @@
 
 本模板的核心文件包括3个：CAS.cls、CAS.layout和1.png。
 
-*CAS.cls*：文档类，控制论文的排版格式。
+*CAS.cls* ：文档类，控制论文的排版格式。
 
-*CAS.layout*：LyX部局文件，控制LyX中的显示和LaTeX命令的调用。
+*CAS.layout* ：LyX部局文件，控制LyX中的显示和LaTeX命令的调用。
 
-*1.png*：封面艺术字。
+*1.png* ：封面艺术字。
 
 其它文件还有：
 
