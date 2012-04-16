@@ -13,8 +13,8 @@
 
 其它文件还有：
 
-*CASLyXThesis.lyx*：说明示例文档原文件。
+*CASLyXThesis.lyx* ：说明示例文档原文件。
 
-*CASThesisLyX.pdf*：说明示例文档。
+*CASThesisLyX.pdf* ：说明示例文档。
 
-*ckwx.bib*：说明示例文档所用参考文献数据库。
+*ckwx.bib* ：说明示例文档所用参考文献数据库。
